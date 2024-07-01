@@ -24,7 +24,7 @@ Selamat datang di dashboard "Insight Penjualan." Dashboard ini dirancang untuk m
 6. Validitas Transaksi: Mayoritas transaksi adalah tidak valid, menunjukkan bahwa data penjualan yang dikumpulkan kurang akurat dan tidak dapat diandalkan sepenuhnya untuk analisis lebih lanjut.
 7. Penjualan Berdasarkan Pelanggan: Analisis penjualan per pelanggan menunjukkan bahwa pelanggan dengan customer id C206125L dan C460487L memiliki kontribusi signifikan terhadap total penjualan. Di mana Ini memberikan wawasan untuk strategi retensi pelanggan dan program loyalitas.
 
-Rekomendasi:
+## Rekomendasi:
 1. Optimalkan Promosi di Kategori Populer: Mengalokasikan lebih banyak sumber daya promosi untuk kategori "Entertainment" dan "Appliances" dapat meningkatkan penjualan lebih lanjut.
 2. Kelola Inventaris Berdasarkan Tren: Menyesuaikan inventaris berdasarkan tren penjualan harian dan SKU terlaris untuk menghindari kekurangan atau kelebihan stok.
 3. Evaluasi Program Diskon: Terus melakukan diskon untuk kategori yang memberikan hasil positif dan eksperimen dengan diskon di kategori lain.
