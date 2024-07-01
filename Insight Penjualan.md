@@ -13,7 +13,7 @@ Selamat datang di dashboard "Insight Penjualan." Dashboard ini dirancang untuk m
 6. Validitas Transaksi: Memastikan validitas transaksi untuk menjaga kualitas data penjualan.
 7. Penjualan Berdasarkan Pelanggan: Mengetahui pelanggan dengan kontribusi terbesar terhadap total penjualan.
 
-![Insight_Penjualan](https://github.com/safrilsanmas/Dashboard/assets/140663487/8165ddb4-73e0-4528-afb6-2963760b58e1)
+![Insight_Penjualan](https://github.com/safrilsanmas/Dashboard/assets/140663487/a475f732-6be8-4c2c-8312-5c75929236fe)
 
 ## Kesimpulan
 1. Kategori Produk Terlaris: Berdasarkan analisis total penjualan per kategori, kategori yang memberikan kontribusi terbesar terhadap pendapatan adalah Mobiles & Tablets. Ini menunjukkan bahwa produk dalam kategori ini sangat diminati oleh pelanggan.
